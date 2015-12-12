@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+When working on a public computer, or even in a situation where your computer is password protected. If you get hit by a bus,
+others can still access your code by pulling down from GitHub. Or something. 
