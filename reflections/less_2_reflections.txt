@@ -1,0 +1,13 @@
+What happens when you initialize a repository? Why do you need to do it?
+Git init creates a .git file, which means that changes will be versioned and tracked in the directory. You need to do it because the directory does not naturally have version control and or tracked files. 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area is a purgatory for files. It means they've changed and are ready to be deposited somewhere. It gives you a chance to abort or commit rather than having to commit and undo. 
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+Use the staging area and git diff to see what files have changed. 
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+If you are trying out a completely new feature or deviating substantially from the master. Branches can keep those experiments from ruining existing working code. 
