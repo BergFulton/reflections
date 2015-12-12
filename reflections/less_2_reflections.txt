@@ -18,3 +18,6 @@ is being traced on what branch.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Merge mashes two branches of code together. We represent it in the diagram as a new point because the master branch may have other branches off of it that do not correspond to the new merged branch. 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Manual merging allows you to be more in control. 
