@@ -15,3 +15,6 @@ If you are trying out a completely new feature or deviating substantially from t
 How do the diagrams help you visualize the branch structure?
 They provide a map for keeping parent and child branches clear, and help you visualize what work
 is being traced on what branch. 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Merge mashes two branches of code together. We represent it in the diagram as a new point because the master branch may have other branches off of it that do not correspond to the new merged branch. 
