@@ -14,3 +14,5 @@ Clone- to make a complete copy of the code. Gets complicated if pushing elsewher
 
 Branch- When you are making changes to code from the master, or want to try to test out code before committing it all the way. 
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Being able to work on it if you are offline. 
