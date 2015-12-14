@@ -19,3 +19,6 @@ Being able to work on it if you are offline.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Using Google Docs or a shared Dropbox could work, and that would lower the technical overhead (no command line), but it would be harder to be granular about changes, and there'd be no supporting branch structure. 
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Making changes in a separate branch is useful to preserve your changes on your branch. Pushing to Master is efficient, but can be difficult to control collaboration. 
